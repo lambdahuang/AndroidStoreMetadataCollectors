@@ -1,4 +1,5 @@
-#Android Store Metadata Collectors
+# Android Store Metadata Collectors
+
 A set of collector that can be applied to collect textual metadata from various kinds of Android stores.
 
 `crawler_aptoide.py` the textual metadata colletor for the [Aptoide](https://en.aptoide.com/)
